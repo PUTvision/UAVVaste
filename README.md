@@ -1,8 +1,10 @@
-![wastes](https://uavvaste.github.io/images/trash.png)
+![fly](https://live.staticflickr.com/65535/50699048692_ea5f052204_o.gif)
+
 # UAVVaste dataset
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+![wastes](https://uavvaste.github.io/images/trash.png)
 
 | **Date**       	| **Images count** 	| **Annotations count** 	|
 |------------	|:------------:	|:-----------------:	|
