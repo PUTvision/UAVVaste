@@ -1,4 +1,4 @@
-![fly](https://live.staticflickr.com/65535/50699048692_ea5f052204_o.gif)
+![](https://github.com/UAVVaste/UAVVaste.github.io/blob/master/50699048692_ea5f052204_o.gif?raw=true)
 
 # UAVVaste dataset
 
