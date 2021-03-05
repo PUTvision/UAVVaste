@@ -37,7 +37,6 @@ python3 main.py
 # Bibtex
 
 ```
-
 @Article{rs13050965,
 AUTHOR = {Kraft, Marek and Piechocki, Mateusz and Ptak, Bartosz and Walas, Krzysztof},
 TITLE = {Autonomous, Onboard Vision-Based Trash and Litter Detection in Low Altitude Aerial Images Collected by an Unmanned Aerial Vehicle},
@@ -50,7 +49,4 @@ URL = {https://www.mdpi.com/2072-4292/13/5/965},
 ISSN = {2072-4292},
 DOI = {10.3390/rs13050965}
 }
-
-
-
 ```
