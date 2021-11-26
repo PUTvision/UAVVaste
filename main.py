@@ -30,7 +30,6 @@ def main():
 
     download_pool = multiprocessing.Pool()
 
-
     num_cores = multiprocessing.cpu_count()
     nimgs = len(tqdm(dataset.imgs.values()))
     inputs = tqdm(dataset.imgs.values())
