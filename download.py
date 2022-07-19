@@ -1,12 +1,12 @@
-import csv
+import os
 import requests
+
 from pycocotools.coco import COCO
 from tqdm import tqdm
-import os
+
 
 anns_path = './annotations/annotations.json'
 dest_path = './images/'
-
 
 
 def try_download(source: str, dest: str, name: str):
@@ -22,7 +22,10 @@ def download(img: dict, dest_path: str):
     if img['flickr_url'] is not None and not os.path.isfile(f'{dest_path}{img["file_name"]}'):
         try_download(img['flickr_url'], dest_path, img['file_name'])
 
+
 def main():
+    print('Note: If the network connection is broken, simply call script again.')
+
     dataset = COCO(anns_path)
 
     for img in tqdm(dataset.imgs.values()):
