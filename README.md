@@ -36,7 +36,7 @@ python3 main.py
 
 # Contribute
 
-If you want to contribute to the UAVVaste dataset, please contact us via email [uavvaste@gmail.com](uavvaste@gmail.com). We will be grateful for all images taken from the UAV with litter annotations in the COCO format (bounding boxes and segmentation masks).
+If you want to contribute to the UAVVaste dataset, please contact us via email [vision@put.poznan.pl](vision@put.poznan.pl). We will be grateful for all images taken from the UAV with litter annotations in the COCO format (bounding boxes and segmentation masks).
 
 # Citation
 
