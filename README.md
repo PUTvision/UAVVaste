@@ -30,6 +30,8 @@ pip3 install -r requirements.txt
 
 ## Download
 
+> UAVVaste dataset is now available also in the Zenodo repository: [https://zenodo.org/record/8214061](https://zenodo.org/record/8214061).
+
 ``` python
 python3 main.py
 ```
