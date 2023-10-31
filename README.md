@@ -32,6 +32,8 @@ pip3 install -r requirements.txt
 
 ## Download
 
+> UAVVaste dataset is now available also in the Zenodo repository: [https://zenodo.org/record/8214061](https://zenodo.org/record/8214061).
+
 To download images from Flickr hosting simply call:
 
 ``` python
@@ -40,7 +42,7 @@ python3 download.py
 
 # Contribute
 
-If one wants to contribute to the UAVVaste dataset, please contact us via email [uavvaste@gmail.com](uavvaste@gmail.com). We will be grateful for all images taken from the UAV with litter annotations in the COCO format (bounding boxes and segmentation masks).
+If you want to contribute to the UAVVaste dataset, please contact us via email [vision@put.poznan.pl](vision@put.poznan.pl). We will be grateful for all images taken from the UAV with litter annotations in the COCO format (bounding boxes and segmentation masks).
 
 # Citation
 
